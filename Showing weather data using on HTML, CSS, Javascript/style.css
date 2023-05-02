@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  label {
+    font-size: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px #CCC;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3E8E41;
+  }
+  
+  #weather-info {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
